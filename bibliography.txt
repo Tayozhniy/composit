@@ -262,3 +262,105 @@
 Цитирование: [57].
 
 68 Браутман Л., Крок Р. Композиционные материалы. Том 2: Механика композиционных материалов. / Пер. с англ. под ред. А. А. Ильюшина и Б. Е. Победри - М.: Мир, 1978. — 568 с.
+
+69 А. Е. Буров. Модели разрушения волокнистых композиционных материалов. / Сибирский журнал науки и технологий. - 2008 г.
+УДК 539.422.5
+Ссылки: [70] - [98], в том числе изданные:
+до 1970 года (включительно): 5 источников,
+с 1971 по 1980 годы: 4 источника,
+с 1981 по 1990 годы: 4 источника,
+с 1991 по 2000 годы: 7 источников,
+в 2001 году: 3 источника,
+в 2002 году: 1 источник,
+в 2003 году: 1 источник,
+в 2004 году: 1 источник,
+в 2005 году: 2 источника,
+в 2006 году: 0 источников,
+в 2007 году: 1 источник.
+
+70	Батаев, А. А. Композиционные материалы: строение, получение, применение / А. А. Батаев, В. А Батаев. Новосибирск : Изд-во НГТУ, 2002.
+Цитирование: [69].
+
+71	Буров, А. Е. Моделирование разрушения и трещи-ностойкость волокнистых металлокомпозитов / А. Е. Буров, И. И. Кокшаров, В. В. Москвичев. Новосибирск : Наука, 2003.
+Цитирование: [69].
+
+72	Милейко, С. Т. Прочность бороалюминия - композита с хрупкими волокнами / С. Т. Милейко, Н. М. Сорокин, А. М. Цирлин // Механика полимеров. 1973. № 5. С. 840-846.
+Цитирование: [69].
+
+73	Милейко, С. Т. Распространение трещины в бороалюминиевом композите / С. Т. Милейко, Ф. X. Сулейманов, Н. С. Саркисян // Механика полимеров. 1976. № 5. С. 1010-1017.
+Цитирование: [69].
+
+74	Серенсен, С. В. Несущая способность тонкостенных конструкций из армированных пластиков с дефектами / С. В. Серенсен, Г. П. Зайцев. Киев : Наук. думка, 1982.
+Цитирование: [69].
+
+75	Исупов, Л. П. Нелокальные критерии разрушения: сравнительный анализ и применение для слоистых композитов / Л. П. Исупов // Механика композитных материалов. 1998. № 2. С. 198-200.
+Цитирование: [69].
+
+76	Bavaglia, S. Application of a non-local failure criterion to a crack in heterogeneous media / S. Bavaglia, S. E. Mikhailov // Damage and Fracture Mechanics : Computer aided assessment and control. Computational Mechanics Publ., 1998. P. 155-164.
+Цитирование: [69].
+
+77	Waddoups, M. Macroscopic Fracture Mechanics of Advanced Composite Materials / M. Waddoups, J. R. Eisenmann, B. E. Kaminski // J. of Composite Materials. 1971. Vol. 5. P. 446-454.
+Цитирование: [69].
+
+78	Аннин, Б. Д. Оценка прочности композитных пластин с концентраторами напряжений методами линейной механики разрушения / Б. Д. Аннин, В. Н. Максименко // Механика композитных материалов. 1994. № 3. С. 343-351.
+Цитирование: [69].
+
+79	Нейбер, Г. Концентрация напряжений / Г. Нейбер. М . : Л. : Гостехиздат, 1947.
+Цитирование: [69].
+
+80	Новожилов, В. В. О необходимом и достаточном критерии хрупкой прочности / В. В. Новожилов // Прикл. математика и механика. 1969. Т. 33. Вып. 2. С. 212-222.
+Цитирование: [69].
+
+81	Партон, В. 3. Механика упругопластического разрушения / В. 3. Партон, Е. М. Морозов. М. : Наука, 1985.
+Цитирование: [69].
+
+82	Gonzalez, C. Toughness of fiber-reinforced titanium as a function of temperature: experimental results and micromechanical modeling / C. Gonzalez, J. Llorca, A. Weck // Acta Mater. 2004. № 52. P. 3929-3939.
+Цитирование: [69].
+
+83	Chen, J. Application of decohesive model with mixed damage scale in fracture analysis of composite materials / J. Chen, A. New // Fatigue Fract. Engng. Mater. Struct. 2001. № 24. P. 761-769.
+Цитирование: [69].
+
+84	Li, S. Use of a cohesive-zone model to analyze the fracture of a fiber-reinforced polymer-matrix composite / S. Li, M. D. Thouless, A. M. Waas et al // Composites Science and Technology. 2005. № 65. P. 537-549.
+Цитирование: [69].
+
+85	Whitney, J. M. Stress fracture criteria for Laminated composites containing stress concentrations/ J. M. Whitney, R. J. Nuismer // J. of Composite Materials. 1974. Vol. 8. P. 253-265.
+Цитирование: [69].
+
+86	Govindan, P. P. Tensile fracture behaviour of notched boron-aluminum composite laminates / P. P. Govindan, B. R. Nageswara, V. K Strivastova // Forshung im Ingen-ieurwesen. 2000. Vol. 66. P. 24-30.
+Цитирование: [69].
+
+87	Landis, C. M. Micromechanical simulation of the failure of fiber reinforced composites / C. M. Landis, I. J. Beyerlein, R. M. McMeeking // J. Mech. Phys. Solids. 2000. № 48. P. 621-648.
+Цитирование: [69].
+
+88	Numerical method for failure simulation of unidirectional fiber-reinforced composites with spring element model / T. Okabe, H. Sekine, K. Ishii et al // Comp. Sci. Tech. 2005. № 65. P. 931-933.
+Цитирование: [69].
+
+89	Xia, Z. Multiscale modeling of failure in metal matrix composites / Z. Xia, W. A. Curtin, P. W. M. Peters // Acta Mater. 2001. № 49. P. 273-289.
+Цитирование: [69].
+
+90	Cox, H. L. The elasticity and strength of paper and other fibrous materials / H. L. Cox // Br. J. Appl. Phys. 1952. № 3. P. 72-79.
+Цитирование: [69].
+
+91	Hedgepeth, J. M. Local stress concentrations in filamentary structures / J. M. Hedgepeth, P. V. Dyke // J. Comp. Mat. 1967. № 1. P. 294-309.
+Цитирование: [69].
+
+92	Овчинский, А. С. Процессы разрушения композиционных материалов: имитация микро- и макромеханизмов на ЭВМ / А. С. Овчинский. М. : Наука, 1988.
+Цитирование: [69].
+
+93	Gonzalez, C. Micromechanical modelling of deformation and failure in Ti-6Al-4V/SiC composites / C. Gonzalez, J. Llorca // Acta Mater. 2001. № 49. P. 3505-3519.
+Цитирование: [69].
+
+94	Rosen, B. W. Tensile failure of fibrous composites / B. W. Rosen // AIAA J., 1968. № 2. P. 1985-1994.
+Цитирование: [69].
+
+95	Ibnabdeljalil, M. Strength and reliability of notched fiber-reinforced composites / M. Ibnabdeljalil, W. A. Curtin // Acta Mater. 1997. № 45. P. 3641-3652.
+Цитирование: [69].
+
+96	Foster, G. C. Tensile strength of titanium matrix composites: direct numerical simulations and analytic model / G. C. Foster, W. A. Curtin // Int. J. Solids Structures. 1998. № 35. P. 2523-2536.
+Цитирование: [69].
+
+97	Batdorf, S. B. Tensile strength of unidirectional reinforced composites / S. B. Batdorf // Int. J. of Reinforced Plastics and Composites. 1982. № 1. P. 153-164.
+Цитирование: [69].
+
+98	Буров, А. Е. Получение волокнистого композита с использованием нанопорошков и оценка его прочности / А. Е. Буров, Г. Г. Крушенко, В. В. Москвичев // Тяжелое машиностроение. 2007. № 10. С. 14-16.
+Цитирование: [69].
